@@ -1,6 +1,6 @@
 {
-    "name": "chimaha ipa",
-    "identifier": "dev.chimaha.repo",
+    "name": "Chimaha Repo",
+    "identifier": "com.chimaha.repo",
     "sourceUrl": "https://raw.githubusercontent.com/chimaha/ipa/main/ipa.json",
     "apps": [
       {
@@ -10,9 +10,31 @@
         "version": "17.43.1",
         "versionDate": "2022-11-29",
         "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.43.1-2.1/uYouPlus_17.43.1_2.1.ipa",
-        "iconURL": "",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.png",
         "localizedDescription": "uYouPlus v17.43.1-2.1 ",
         "size": "115017943"
+      },
+      {
+        "name": "Twitter",
+        "identifier": "com.atebits.Tweetie2",
+        "developerName": "BHTwitter",
+        "version": "9.34.6",
+        "versionDate": "2022-11-29",
+        "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.3/Twitter_9.34.6_BHTwitter_3.3.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.png",
+        "localizedDescription": "BHTwitter v9.34.6-3.3",
+        "size": "121791825"
+      },
+      {
+        "name": "YouTube Music",
+        "identifier": "com.google.ios.youtubemusic",
+        "developerName": "YTMusicUltimate",
+        "version": "5.32.2",
+        "versionDate": "2022-11-29",
+        "downloadURL": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.2.7/YTMusicUltimate_v1.2.7.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/YouTube%20Music.png",
+        "localizedDescription": "YTMusicUltimate v5.32.2-1.2.7",
+        "size": "57427816"
       }
     ]
   }
