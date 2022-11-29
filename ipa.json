@@ -1,7 +1,7 @@
 {
-    "name": "mrbeef777 ipa repo",
-    "identifier": "dev.mrbeef777.repo",
-    "sourceUrl": "https://raw.githubusercontent.com/Mrbeef777/mrbeef777.json/main/repo.json",
+    "name": "chimaha ipa",
+    "identifier": "dev.chimaha.repo",
+    "sourceUrl": "https://raw.githubusercontent.com/chimaha/ipa/main/ipa.json",
     "apps": [
       {
         "name": "Youtube",
