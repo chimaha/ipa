@@ -23,7 +23,7 @@
         "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.4/Twitter_9.37.1_BHTwitter_3.4.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.jpg",
         "localizedDescription": "BHTwitter v9.37.1-3.4",
-        "size": "121791825"
+        "size": "102340172"
       },
       {
         "name": "YouTube Music",
@@ -40,12 +40,12 @@
         "name": "Discord",
         "identifier": "com.hammerandchisel.discord",
         "developerName": "Enmity",
-        "version": "141.0",
-        "versionDate": "2022-12-01",
-        "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.3/enmity.ipa",
+        "version": "155.0",
+        "versionDate": "2022-12-21",
+        "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Discord.jpg",
-        "localizedDescription": "Enmity v141.0-2.1.3",
-        "size": "74665984"
+        "localizedDescription": "Enmity v155.0-2.1.4",
+        "size": "79750354"
       }
     ]
   }
