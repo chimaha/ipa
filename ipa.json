@@ -7,11 +7,11 @@
         "name": "Youtube",
         "identifier": "com.google.ios.youtube",
         "developerName": "uYouPlus",
-        "version": "17.48.2",
-        "versionDate": "2022-12-13",
-        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.48.2-2.1/uYouPlus_17.48.2_2.1.ipa",
+        "version": "17.49.6",
+        "versionDate": "2022-12-26",
+        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.49.6-2.1/uYouPlus_17.49.6_2.1.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
-        "localizedDescription": "uYouPlus v17.48.2-2.1 ",
+        "localizedDescription": "uYouPlus v17.49.6-2.1 ",
         "size": "115872093"
       },
       {
