@@ -8,11 +8,10 @@
         "identifier": "com.google.ios.youtube",
         "developerName": "uYouPlus",
         "version": "17.49.6",
-        "versionDate": "2022-12-26",
-        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.49.6-2.1/uYouPlus_17.49.6_2.1.ipa",
+        "versionDate": "2023-01-07",
+        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.49.6-2.3(1)/uYouPlus_17.49.6_2.3.1.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
-        "localizedDescription": "uYouPlus v17.49.6-2.1 ",
-        "size": "115872093"
+        "localizedDescription": "uYouPlus v17.49.6-2.3.1"
       },
       {
         "name": "Twitter",
@@ -22,8 +21,7 @@
         "versionDate": "2022-12-26",
         "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.5/Twitter_9.38_BHTwitter_3.5.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.jpg",
-        "localizedDescription": "BHTwitter v9.38-3.5",
-        "size": "101513158"
+        "localizedDescription": "BHTwitter v9.38-3.5"
       },
       {
         "name": "YouTube Music",
@@ -33,8 +31,7 @@
         "versionDate": "2022-11-29",
         "downloadURL": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.2.7/YTMusicUltimate_v1.2.7.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/YouTubeMusic.jpg",
-        "localizedDescription": "YTMusicUltimate v5.32.2-1.2.7",
-        "size": "57427816"
+        "localizedDescription": "YTMusicUltimate v5.32.2-1.2.7"
       },
       {
         "name": "Discord",
@@ -44,8 +41,7 @@
         "versionDate": "2022-12-21",
         "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Discord.jpg",
-        "localizedDescription": "Enmity v155.0-2.1.4",
-        "size": "79750354"
+        "localizedDescription": "Enmity v155.0-2.1.4"
       }
     ]
   }
