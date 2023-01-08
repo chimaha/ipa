@@ -17,11 +17,11 @@
         "name": "Twitter",
         "identifier": "com.atebits.Tweetie2",
         "developerName": "BHTwitter",
-        "version": "9.38",
-        "versionDate": "2022-12-26",
-        "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.5/Twitter_9.38_BHTwitter_3.5.ipa",
+        "version": "9.39",
+        "versionDate": "2023-01-08",
+        "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.6/Twitter_9.39_BHTwitter_3.6.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.jpg",
-        "localizedDescription": "BHTwitter v9.38-3.5"
+        "localizedDescription": "BHTwitter v9.39-3.6"
       },
       {
         "name": "YouTube Music",
