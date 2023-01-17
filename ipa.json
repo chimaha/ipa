@@ -42,6 +42,16 @@
         "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Discord.jpg",
         "localizedDescription": "Enmity v155.0-2.1.4"
+      },
+      {
+        "name": "FileSwitcherX",
+        "identifier": "com.straight-tamago.FileSwitcherX",
+        "developerName": "straight-tamago",
+        "version": "1.6",
+        "versionDate": "2023-01-16",
+        "downloadURL": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.6/FileSwitcherX-1.6.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherX.png",
+        "localizedDescription": "FileSwitcherX v1.6"
       }
     ]
   }
