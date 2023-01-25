@@ -1,7 +1,7 @@
 {
     "name": "Chimaha Repo",
-    "identifier": "com.chimaha.repo",
-    "sourceUrl": "https://raw.githubusercontent.com/chimaha/ipa/main/ipa.json",
+    "identifier": "xyz.chimaha.ipalibrary",
+    "sourceURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/ipa.json",
     "apps": [
       {
         "name": "Cowabunga",
