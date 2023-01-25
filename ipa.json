@@ -2,64 +2,66 @@
     "name": "Chimaha Repo",
     "identifier": "com.chimaha.repo",
     "sourceUrl": "https://raw.githubusercontent.com/chimaha/ipa/main/ipa.json",
-    "lastUpdateDate": "2023-01-24",
     "apps": [
       {
+        "name": "Cowabunga",
+        "version": "6.1.2",
+        "versionDate": "2023-01-25",
+        "size": 9780903,
+        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v6.1.2/Cowabunga.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Cowabunga.png",
+        "localizedDescription": "Cowabunga v6.1.2"
+      },
+      {
         "name": "FileSwitcherX",
-        "identifier": "com.straight-tamago.FileSwitcherX",
-        "developerName": "straight-tamago",
         "version": "1.7",
         "versionDate": "2023-01-24",
+        "size": 2476981,
         "downloadURL": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherX.png",
         "localizedDescription": "FileSwitcherX v1.7"
       },
       {
         "name": "Youtube",
-        "identifier": "com.google.ios.youtube",
-        "developerName": "uYouPlus",
         "version": "18.01.6",
         "versionDate": "2023-01-20",
+        "size": 110043700,
         "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
         "localizedDescription": "uYouPlus v18.01.6-2.3.1"
       },
       {
         "name": "Twitter",
-        "identifier": "com.atebits.Tweetie2",
-        "developerName": "BetterTwitter",
         "version": "9.27",
         "versionDate": "2023-01-20",
+        "size": 152652011,
         "downloadURL": "https://github.com/nyaathea/BetterTwitter/releases/download/1.0.2/BetterTwitter.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.jpg",
         "localizedDescription": "BetterTwitter v9.27-1.0.2"
       },
       {
         "name": "Discord",
-        "identifier": "com.hammerandchisel.discord",
-        "developerName": "Enmity",
         "version": "141.0",
         "versionDate": "2023-01-20",
+        "size": 74660529,
         "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.3/enmity.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Discord.jpg",
         "localizedDescription": "Enmity v141.0-2.1.3"
       },
       {
         "name": "Twitter",
-        "identifier": "com.atebits.Tweetie2",
-        "developerName": "BHTwitter",
         "version": "9.40",
         "versionDate": "2023-01-14",
+        "size": 96837324,
         "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/3.7/Twitter_9.40_BHTwitter_3.7.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.jpg",
         "localizedDescription": "BHTwitter v9.40-3.7"
       },
       {
         "name": "YouTube Music",
-        "identifier": "com.google.ios.youtubemusic",
-        "developerName": "YTMusicUltimate",
         "version": "5.32.2",
         "versionDate": "2022-11-29",
+        "size": 57427816,
         "downloadURL": "https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.2.7/YTMusicUltimate_v1.2.7.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/YouTubeMusic.jpg",
         "localizedDescription": "YTMusicUltimate v5.32.2-1.2.7"
