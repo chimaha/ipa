@@ -5,12 +5,12 @@
     "apps": [
       {
         "name": "Cowabunga",
-        "version": "6.1.2",
-        "versionDate": "2023-01-25",
-        "size": 9780903,
-        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v6.1.2/Cowabunga.ipa",
+        "version": "6.1.4",
+        "versionDate": "2023-01-28",
+        "size": 9773062,
+        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v6.1.4/Cowabunga.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Cowabunga.png",
-        "localizedDescription": "Cowabunga v6.1.2"
+        "localizedDescription": "Cowabunga v6.1.4"
       },
       {
         "name": "FileSwitcherX",
