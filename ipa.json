@@ -5,12 +5,12 @@
     "apps": [
       {
         "name": "FileSwitcherPro",
-        "version": "1.1",
-        "versionDate": "2023-02-02",
+        "version": "1.2",
+        "versionDate": "2023-02-12",
         "size": 2718627,
-        "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/1.1/FileSwitcherPro-1.1.ipa",
+        "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/1.2/FileSwitcherPro-1.2.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherPro.jpg",
-        "localizedDescription": "FileSwitcherPro v1.1"
+        "localizedDescription": "FileSwitcherPro v1.2"
       },
       {
         "name": "Cowabunga",
