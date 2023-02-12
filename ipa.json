@@ -5,21 +5,21 @@
     "apps": [
       {
         "name": "FileSwitcherPro",
-        "version": "1.2",
-        "versionDate": "2023-02-12",
+        "version": "2.3",
+        "versionDate": "2023-02-13",
         "size": 2718627,
-        "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/1.2/FileSwitcherPro-1.2.ipa",
+        "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.3/FileSwitcherPro-2.3.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherPro.jpg",
-        "localizedDescription": "FileSwitcherPro v1.2"
+        "localizedDescription": "FileSwitcherPro v2.3"
       },
       {
         "name": "Cowabunga",
-        "version": "7.0.3",
-        "versionDate": "2023-02-02",
+        "version": "8.0.1",
+        "versionDate": "2023-02-13",
         "size": 10795562,
-        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v7.0.3/Cowabunga.ipa",
+        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.1/Cowabunga.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Cowabunga.png",
-        "localizedDescription": "Cowabunga v7.0.3"
+        "localizedDescription": "Cowabunga v8.0.1"
       },
       {
         "name": "FileSwitcherX",
