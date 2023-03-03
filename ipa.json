@@ -4,6 +4,24 @@
     "sourceURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/ipa.json",
     "apps": [
       {
+        "name": "Youtube",
+        "version": "18.08.1",
+        "versionDate": "2023-03-03",
+        "size": 110043700,
+        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
+        "localizedDescription": "uYouPlus v18.08.1_2.3.1"
+      },
+      {
+        "name": "FileSwitcherPro",
+        "version": "2.4",
+        "versionDate": "2023-03-03",
+        "size": 2718627,
+        "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.4/FileSwitcherPro-2.4.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherPro.jpg",
+        "localizedDescription": "FileSwitcherPro v2.4"
+      },
+      {
         "name": "Cowabunga",
         "version": "8.1.1",
         "versionDate": "2023-03-01",
@@ -13,15 +31,6 @@
         "localizedDescription": "Cowabunga v8.1.1"
       },
       {
-        "name": "FileSwitcherPro",
-        "version": "2.3",
-        "versionDate": "2023-02-13",
-        "size": 2718627,
-        "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.3/FileSwitcherPro-2.3.ipa",
-        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherPro.jpg",
-        "localizedDescription": "FileSwitcherPro v2.3"
-      },
-      {
         "name": "FileSwitcherX",
         "version": "1.7",
         "versionDate": "2023-01-24",
@@ -29,15 +38,6 @@
         "downloadURL": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherX.png",
         "localizedDescription": "FileSwitcherX v1.7"
-      },
-      {
-        "name": "Youtube",
-        "version": "18.01.6",
-        "versionDate": "2023-01-20",
-        "size": 110043700,
-        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
-        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
-        "localizedDescription": "uYouPlus v18.01.6-2.3.1"
       },
       {
         "name": "Twitter",
