@@ -4,6 +4,15 @@
     "sourceURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/ipa.json",
     "apps": [
       {
+        "name": "Cowabunga",
+        "version": "8.1.2",
+        "versionDate": "2023-03-07",
+        "size": 10795562,
+        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.2/Cowabunga.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Cowabunga.png",
+        "localizedDescription": "Cowabunga v8.1.2"
+      },
+      {
         "name": "Twitter",
         "version": "9.47",
         "versionDate": "2023-03-06",
@@ -29,15 +38,6 @@
         "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.4/FileSwitcherPro-2.4.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherPro.jpg",
         "localizedDescription": "FileSwitcherPro v2.4"
-      },
-      {
-        "name": "Cowabunga",
-        "version": "8.1.1",
-        "versionDate": "2023-03-01",
-        "size": 10795562,
-        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
-        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Cowabunga.png",
-        "localizedDescription": "Cowabunga v8.1.1"
       },
       {
         "name": "FileSwitcherX",
