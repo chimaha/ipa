@@ -5,12 +5,12 @@
     "apps": [
       {
         "name": "Cowabunga",
-        "version": "8.1.4",
-        "versionDate": "2023-03-16",
+        "version": "10",
+        "versionDate": "2023-03-22",
         "size": 10795562,
-        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.4/Cowabunga.ipa",
+        "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v10.0.0/Cowabunga.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Cowabunga.png",
-        "localizedDescription": "Cowabunga v8.1.4"
+        "localizedDescription": "Cowabunga v10"
       },
       {
         "name": "Twitter",
