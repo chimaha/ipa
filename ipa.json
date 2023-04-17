@@ -4,6 +4,24 @@
     "sourceURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/ipa.json",
     "apps": [
       {
+        "name": "Youtube",
+        "version": "18.15.1",
+        "versionDate": "2023-04-17",
+        "size": 110043700,
+        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.15.1-3.0/uYouPlus_18.15.1_3.0.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
+        "localizedDescription": "uYouPlus v18.15.1_2.3.0"
+      },
+      {
+        "name": "Discord",
+        "version": "175.0",
+        "versionDate": "2023-04-17",
+        "size": 74660529,
+        "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.5/Enmity.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/Discord.jpg",
+        "localizedDescription": "Enmity v175.0-2.2.5"
+      },
+      {
         "name": "Cowabunga",
         "version": "10.1.1",
         "versionDate": "2023-04-08",
@@ -22,15 +40,6 @@
         "localizedDescription": "BHTwitter v9.47-3.9.1"
       },
       {
-        "name": "Youtube",
-        "version": "18.08.1",
-        "versionDate": "2023-03-03",
-        "size": 110043700,
-        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
-        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
-        "localizedDescription": "uYouPlus v18.08.1_2.3.1"
-      },
-      {
         "name": "FileSwitcherPro",
         "version": "2.4",
         "versionDate": "2023-03-03",
@@ -38,15 +47,6 @@
         "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.4/FileSwitcherPro-2.4.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherPro.jpg",
         "localizedDescription": "FileSwitcherPro v2.4"
-      },
-      {
-        "name": "FileSwitcherX",
-        "version": "1.7",
-        "versionDate": "2023-01-24",
-        "size": 2476981,
-        "downloadURL": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
-        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/FileSwitcherX.png",
-        "localizedDescription": "FileSwitcherX v1.7"
       },
       {
         "name": "Twitter",
