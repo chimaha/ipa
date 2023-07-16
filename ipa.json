@@ -5,6 +5,23 @@
     "apps": [
       {
         "name": "Youtube",
+        "version": "18.27.3",
+        "versionDate": "2023-07-17",
+        "size": 110043700,
+        "downloadURL": "https://github.com/dayanch96/YTLite/releases/download/v2.3/YTLite_18.27.3_v2.3.ipa",
+        "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
+        "localizedDescription": "YTLite v18.27.3_2.3"
+      },
+      {
+        "name": "Instagram",
+        "version": "290.1",
+        "versionDate": "2023-07-17",
+        "size": 110043700,
+        "downloadURL": "https://github.com/BandarHL/BHInstagram/releases/download/0.0.1/Instagram_290.1_BHInstagram_0.0.1.ipa",
+        "localizedDescription": "BHInstagram v290.1_0.0.1"
+      },
+      {
+        "name": "Youtube",
         "version": "18.15.1",
         "versionDate": "2023-04-17",
         "size": 110043700,
