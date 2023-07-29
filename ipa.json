@@ -5,12 +5,12 @@
     "apps": [
       {
         "name": "Youtube",
-        "version": "18.27.3",
-        "versionDate": "2023-07-17",
+        "version": "18.29.1",
+        "versionDate": "2023-07-30",
         "size": 110043700,
-        "downloadURL": "https://github.com/dayanch96/YTLite/releases/download/v2.3/YTLite_18.27.3_v2.3.ipa",
+        "downloadURL": "https://github.com/dayanch96/YTLite/releases/download/v2.3.1/YTLite_18.29.1_v2.3.1.ipa",
         "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
-        "localizedDescription": "YTLite v18.27.3_2.3"
+        "localizedDescription": "YTLite v18.29.1_2.3.1"
       },
       {
         "name": "Instagram",
