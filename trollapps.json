@@ -1,0 +1,107 @@
+{
+  "name": "Kumiki Repo",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/RepositoryIcon.jpg",
+  "headerURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/DefaultHeaderImage.jpg",
+  "website": "",
+  "tintColor": "#F54F32",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "straight-tamago",
+      "subtitle": "",
+      "localizedDescription": "iOS customisation tool for KFD & MDC",
+      "iconURL": "https://camo.githubusercontent.com/7f12bdd20bcb27eee222e6b80aeab3dfdb3433cc1ffae32d67040233a8909aea/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313135373735373039333039373532313136322f313138313232343735343939333138343834382f4170705f53746f72652d72656d6f766562672d707265766965772e706e67",
+      "tintColor": "#F54F32",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/misaka01.jpg",
+        "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/misaka02.jpg",
+        "https://raw.githubusercontent.com/chimaha/ipa-repo/main/icon/misaka03.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.3.7",
+          "date": "2023-12-16",
+          "localizedDescription": "iOS customisation tool for KFD & MDC",
+          "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.3.7/misaka-v3.3.7.ipa",
+          "size": 30062344,
+          "minOSVersion": "15.0",
+          "maxOSVersion": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "BetterTwitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "flanmoder",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.jpg",
+      "tintColor": "#F54F32",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.02",
+          "date": "2023-01-16",
+          "localizedDescription": "Twitter v9.2.7\n・Reverts some of the 'elon musk era' twitter UI changes\n・Use legacy icons instead of the new redesign\n・Use the old feather icon instead of the plus icon\n・Use legacy font instead of the new chirp font\n・Use the old DMs design and old Sidebar menu design\n・Use the old refresh sound\n・Remove twitter blue options in settings\n・Reply later option in DMs\n・Enables the ability to CoTweet with people\n・Enables 'Add status' button in composer (vibe composer)",
+          "downloadURL": "https://github.com/nyaathea/BetterTwitter/releases/download/1.0.2/BetterTwitter.ipa",
+          "size": 15252011,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "BHTwitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL ",
+      "subtitle": "",
+      "localizedDescription": "Awesome tweak for Twitter",
+      "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Twitter.jpg",
+      "tintColor": "#F54F32",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.2.1",
+          "date": "2023-12-18",
+          "localizedDescription": "Twitter v10.20\nAwesome tweak for Twitter",
+          "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.2-1/BHTwitter-trollstore.tipa",
+          "size": 130403080,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "YTLite",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dayanch96",
+      "subtitle": "",
+      "localizedDescription": "Lightweight YouTube Enhancer",
+      "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
+      "tintColor": "#F54F32",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/ca.bomberfish.Whitelist/Whitelist.png"
+      ],
+      "versions": [
+        {
+          "version": "2.4",
+          "date": "2023-11-11",
+          "localizedDescription": "YouTube v18.44.3\nLightweight YouTube Enhancer",
+          "downloadURL": "https://github.com/dayanch96/YTLite/releases/download/v2.4/YTLite_18.44.3_v2.4.ipa",
+          "size": 105569551,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
