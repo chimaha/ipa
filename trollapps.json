@@ -86,9 +86,7 @@
       "localizedDescription": "Lightweight YouTube Enhancer",
       "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
       "tintColor": "#F54F32",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/ca.bomberfish.Whitelist/Whitelist.png"
-      ],
+      "screenshotURLs": [],
       "versions": [
         {
           "version": "2.4",
