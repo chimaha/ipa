@@ -30,6 +30,15 @@
           "size": 30062344,
           "minOSVersion": "15.0",
           "maxOSVersion": ""
+        },
+        {
+          "version": "3.4.1",
+          "date": "2023-12-28",
+          "localizedDescription": "iOS customisation tool for KFD & MDC",
+          "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.4.1/misaka-v3.4.1_TrollFix2.ipa",
+          "size": 30199441,
+          "minOSVersion": "15.0",
+          "maxOSVersion": ""
         }
       ],
       "appPermissions": {}
@@ -86,7 +95,9 @@
       "localizedDescription": "Lightweight YouTube Enhancer",
       "iconURL": "https://raw.githubusercontent.com/chimaha/ipa/main/icon/Youtube.jpg",
       "tintColor": "#F54F32",
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/screenshots/mdc/ca.bomberfish.Whitelist/Whitelist.png"
+      ],
       "versions": [
         {
           "version": "2.4",
